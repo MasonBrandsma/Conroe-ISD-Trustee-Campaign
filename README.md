@@ -91,7 +91,7 @@
     <section id="get-involved">
         <h2>Get Involved</h2>
         <p>Join me in shaping a brighter future for Conroe ISD! Whether you want to volunteer, share your ideas, or support the campaign, your involvement matters.</p>
-        <p><strong>Contact me:</strong> [Insert Email Address or Phone Number]</p>
+        <p><strong>Contact me:</strong> Mason.Brandsma@icloud.com (281)624-6573</p>
     </section>
     <footer>
         <p>&copy; 2026 Campaign for Conroe ISD Trustee | Designed with care</p>
